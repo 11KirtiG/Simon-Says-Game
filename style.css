@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background-color: cornsilk;
+}
+.btn{
+    
+    height: 10rem;
+    width: 10rem;
+    border: solid black 7px;
+    margin: 2rem;
+    background-color: red;
+    border-radius: 20%;
+
+    
+}
+.btn:hover{
+    box-shadow: 2px 2px 10px black;
+}
+.btn_container{
+    display: flex;
+    justify-content: center;
+}
+.first{
+    background-color: rgb(255, 38, 0);
+}
+.sec{
+    background-color: rgb(10, 237, 162);
+}
+.third{
+    background-color: cornflowerblue;
+}
+.fourth{
+    background-color: rgb(236, 233, 13);
+}
+.gameflash{
+    background-color: white;
+}
+.userflash{
+    background-color: pink;
+}
